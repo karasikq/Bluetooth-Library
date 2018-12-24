@@ -2,6 +2,7 @@
  * Bluetooth library
  * Author: https://github.com/karasikq
  * Last update: 25.12.2018
+ * License: GNU GPLv3
  */
 
 
